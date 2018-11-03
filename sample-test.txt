@@ -1,0 +1,17 @@
+Pierre/NNP Vinken/NNP ],/, [ 61/CD years/NNS ]old/JJ ,/, will/MD join/VB [ the/DT board/NN ]as/IN [ a/DT nonexecutive/JJ director/NN Nov./NNP 29/CD ] [ A/DT Lorillard/NNP spokewoman/NN ]said/VBD ,/, ``/`` [ This/DT ]is/VBZ [ an/DT old/JJ story/NN ]./. In/IN 
+[ happier/JJR news/NN ]
+,/, 
+[ South/NNP Korea/NNP ]
+,/, in/IN establishing/VBG 
+[ diplomatic/JJ ties/NNS ]
+with/IN 
+[ Poland/NNP yesterday/NN ]
+,/, announced/VBD 
+[ $/$ 450/CD million/CD ]
+in/IN 
+[ loans/NNS ]
+to/TO 
+[ the/DT ]
+financially/RB strapped/VBN 
+[ Warsaw/NNP government/NN ]
+./.
